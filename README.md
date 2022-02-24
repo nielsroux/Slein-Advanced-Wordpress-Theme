@@ -8,9 +8,9 @@
 
 ## Maintainer
 
-| Name                                      | Github Username |
-|-------------------------------------------|-----------------|
-| [Imran Sayed](mailto:nielsroux@gmail.com) | @nielsroux      |
+| Name                                     | Github Username |
+|------------------------------------------|-----------------|
+| [Niels Roux](mailto:nielsroux@gmail.com) | @nielsroux      |
 
 ## Usage
 
