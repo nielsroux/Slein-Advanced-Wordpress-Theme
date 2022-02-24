@@ -30,7 +30,7 @@
 Clone the repo and run
 
 ```bash
-cd aquila/assets
+cd slein/assets
 npm install
 ```
 
