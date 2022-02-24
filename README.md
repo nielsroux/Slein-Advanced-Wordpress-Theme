@@ -14,7 +14,7 @@
 
 ## Usage
 
-1. Clone the WordPress theme [slein](https://github.com/nielsroux/slein-wordpress-theme) in your WordPress
+1. Clone the WordPress theme [slein](https://github.com/nielsroux/Slein-Advanced-Wordpress-Theme/) in your WordPress
    themes directory and activate it.
 
 ## Dashboard Setup.
